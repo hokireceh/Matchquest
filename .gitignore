@@ -1,6 +1,6 @@
 *.py
 env
-!bot.py
+!main.py
 *.log
 *.txt
 !data.txt
